@@ -1,0 +1,338 @@
+[
+    {
+        "name": "MARIO",
+        "id": "01"
+    },
+    {
+        "name": "DONKEY KONG",
+        "id": "02"
+    },
+    {
+        "name": "LINK",
+        "id": "03"
+    },
+    {
+        "name": "SAMUS",
+        "id": "04"
+    },
+    {
+        "name": "DARK SAMUS",
+        "id": "04ᵋ"
+    },
+    {
+        "name": "YOSHI",
+        "id": "05"
+    },
+    {
+        "name": "KIRBY",
+        "id": "06"
+    },
+    {
+        "name": "FOX",
+        "id": "07"
+    },
+    {
+        "name": "PIKACHU",
+        "id": "08"
+    },
+    {
+        "name": "LUIGI",
+        "id": "09"
+    },
+    {
+        "name": "NESS",
+        "id": "10"
+    },
+    {
+        "name": "CAPTAIN FALCON",
+        "id": "11"
+    },
+    {
+        "name": "JIGGLYPUFF",
+        "id": "12"
+    },
+    {
+        "name": "PEACH",
+        "id": "13"
+    },
+    {
+        "name": "DAISY",
+        "id": "13ᵋ"
+    },
+    {
+        "name": "BOWSER",
+        "id": "14"
+    },
+    {
+        "name": "ICE CLIMBERS",
+        "id": "15"
+    },
+    {
+        "name": "SHEIK",
+        "id": "16"
+    },
+    {
+        "name": "ZELDA",
+        "id": "17"
+    },
+    {
+        "name": "DR. MARIO",
+        "id": "18"
+    },
+    {
+        "name": "PICHU",
+        "id": "19"
+    },
+    {
+        "name": "FALCO",
+        "id": "20"
+    },
+    {
+        "name": "MARTH",
+        "id": "21"
+    },
+    {
+        "name": "LUCINA",
+        "id": "21ᵋ"
+    },
+    {
+        "name": "YOUNG LINK",
+        "id": "22"
+    },
+    {
+        "name": "GANONDORF",
+        "id": "23"
+    },
+    {
+        "name": "MEWTWO",
+        "id": "24"
+    },
+    {
+        "name": "ROY",
+        "id": "25"
+    },
+    {
+        "name": "CHROM",
+        "id": "25ᵋ"
+    },
+    {
+        "name": "MR. GAME & WATCH",
+        "id": "26"
+    },
+    {
+        "name": "META KNIGHT",
+        "id": "27"
+    },
+    {
+        "name": "PIT",
+        "id": "28"
+    },
+    {
+        "name": "DARK PIT",
+        "id": "28ᵋ"
+    },
+    {
+        "name": "ZERO SUIT SAMUS",
+        "id": "29"
+    },
+    {
+        "name": "WARIO",
+        "id": "30"
+    },
+    {
+        "name": "SNAKE",
+        "id": "31"
+    },
+    {
+        "name": "IKE",
+        "id": "32"
+    },
+    {
+        "name": "POKÉMON TRAINER",
+        "id": "33/34/35"
+    },
+    {
+        "name": "DIDDY KONG",
+        "id": "36"
+    },
+    {
+        "name": "LUCAS",
+        "id": "37"
+    },
+    {
+        "name": "SONIC",
+        "id": "38"
+    },
+    {
+        "name": "KING DEDEDE",
+        "id": "39"
+    },
+    {
+        "name": "OLIMAR",
+        "id": "40"
+    },
+    {
+        "name": "LUCARIO",
+        "id": "41"
+    },
+    {
+        "name": "R.O.B.",
+        "id": "42"
+    },
+    {
+        "name": "TOON LINK",
+        "id": "43"
+    },
+    {
+        "name": "WOLF",
+        "id": "44"
+    },
+    {
+        "name": "VILLAGER",
+        "id": "45"
+    },
+    {
+        "name": "MEGA MAN",
+        "id": "46"
+    },
+    {
+        "name": "WII FIT TRAINER",
+        "id": "47"
+    },
+    {
+        "name": "ROSALINA & LUMA",
+        "id": "48"
+    },
+    {
+        "name": "LITTLE MAC",
+        "id": "49"
+    },
+    {
+        "name": "GRENINJA",
+        "id": "50"
+    },
+    {
+        "name": "MII BRAWLER",
+        "id": "51"
+    },
+    {
+        "name": "MII GUNNER",
+        "id": "52"
+    },
+    {
+        "name": "MII SWORDFIGHTER",
+        "id": "53"
+    },
+    {
+        "name": "PALUTENA",
+        "id": "54"
+    },
+    {
+        "name": "PAC-MAN",
+        "id": "55"
+    },
+    {
+        "name": "ROBIN",
+        "id": "56"
+    },
+    {
+        "name": "SHULK",
+        "id": "57"
+    },
+    {
+        "name": "BOWSER JR.",
+        "id": "58"
+    },
+    {
+        "name": "DUCK HUNT",
+        "id": "59"
+    },
+    {
+        "name": "RYU",
+        "id": "60"
+    },
+    {
+        "name": "KEN",
+        "id": "60ᵋ"
+    },
+    {
+        "name": "CLOUD",
+        "id": "61"
+    },
+    {
+        "name": "CORRIN",
+        "id": "62"
+    },
+    {
+        "name": "BAYONETTA",
+        "id": "63"
+    },
+    {
+        "name": "INKLING",
+        "id": "64"
+    },
+    {
+        "name": "RIDLEY",
+        "id": "65"
+    },
+    {
+        "name": "SIMON",
+        "id": "66"
+    },
+    {
+        "name": "RICHTER",
+        "id": "66ᵋ"
+    },
+    {
+        "name": "KING K. ROOL",
+        "id": "67"
+    },
+    {
+        "name": "ISABELLE",
+        "id": "68"
+    },
+    {
+        "name": "INCINEROAR",
+        "id": "69"
+    },
+    {
+        "name": "PIRANHA PLANT",
+        "id": "70"
+    },
+    {
+        "name": "JOKER",
+        "id": "71"
+    },
+    {
+        "name": "HERO",
+        "id": "72"
+    },
+    {
+        "name": "BANJO & KAZOOIE",
+        "id": "73"
+    },
+    {
+        "name": "TERRY",
+        "id": "74"
+    },
+    {
+        "name": "BYLETH",
+        "id": "75"
+    },
+    {
+        "name": "MIN MIN",
+        "id": "76"
+    },
+    {
+        "name": "STEVE / ALEX",
+        "id": "77"
+    },
+    {
+        "name": "SEPHIROTH",
+        "id": "78"
+    },
+    {
+        "name": "PYRA / MYTHRA",
+        "id": "79/80"
+    }
+]
