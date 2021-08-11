@@ -1,6 +1,12 @@
 const express = require("express");
 const app = express();
 
+// Start middleware pipeline (HTTP request goes in).
+
+
+
+// End middleware pipeline.
+
 const PORT = 8080;
 app.listen(PORT, () => {
     console.log(
