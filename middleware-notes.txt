@@ -9,6 +9,7 @@
         -> Character subrouter
             -> HTTP GET /characters
             -> HTTP GET /characters/A (letter param)
+            -> HTTP POST /characters (uses req.body to create a new character in database)
         -> HTTP GET /best-cohort-ever
         -> HTTP GET /colorizer.js 
         -> Custom 404 middleware
