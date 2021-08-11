@@ -1,3 +1,11 @@
 
 
-    HTTP request in ->  -> End of middleware pipeline
+    HTTP request in 
+
+        -> Logging url middleware (any method, any url [app.use])
+        -> HTTP GET / 
+        -> HTTP GET /best-cohort-ever
+        -> HTTP GET /colorizer.js 
+        -> Custom 404 middleware
+        
+    -> End of middleware pipeline
