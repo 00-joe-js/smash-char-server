@@ -3,7 +3,12 @@
     HTTP request in 
 
         -> Logging url middleware (any method, any url [app.use])
-        -> HTTP GET / 
+        -> Body parsing middleware, POST/PUT requests parse the JSON content of the payload
+        -> Body parsing middleware, POST/PUT requests parse the FORM ENCODED content of the payload
+        -> HTTP GET /
+        -> Character subrouter
+            -> HTTP GET /characters
+            -> HTTP GET /characters/A (letter param)
         -> HTTP GET /best-cohort-ever
         -> HTTP GET /colorizer.js 
         -> Custom 404 middleware

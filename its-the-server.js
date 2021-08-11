@@ -1,18 +1,26 @@
 const express = require("express");
 const app = express();
 
+const characterRoutes = require("./smash-characters-router");
+
 // Start middleware pipeline (HTTP request goes in).
 
 app.use((req, res, next) => {
-    console.log(req.url);
+    // console.log(req.url);
     next();
 });
 
-// 1st stop
+app.use(express.json()); // Is this a post or put request? If it is, is the content JSON format? place parsed body on req.body
+app.use(express.urlencoded({extended: false}));
+
 app.get("/", (req, res) => {
     console.log(req);
     res.send("Hello class!");
 });
+
+app.use("/characters", characterRoutes);
+app.use("/smash", characterRoutes);
+app.use("/chars", characterRoutes);
 
 // 2nd stop
 app.get("/best-cohort-ever", (req, res, next) => {
